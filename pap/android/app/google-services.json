@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903441061760",
+    "firebase_url": "https://alves-papflutter-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "alves-papflutter",
+    "storage_bucket": "alves-papflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903441061760:android:c0cacfe776ea27a51fd365",
+        "android_client_info": {
+          "package_name": "com.example.pap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903441061760-rscsh8o5atp9rq12kqomie0vkb632q80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdRedF0SaN8qB3WvlvVc38GSs-64F7z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903441061760-rscsh8o5atp9rq12kqomie0vkb632q80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
